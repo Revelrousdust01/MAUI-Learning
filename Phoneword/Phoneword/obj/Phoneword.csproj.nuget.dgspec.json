@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian.Politis\\source\\repos\\Phoneword\\Phoneword\\Phoneword.csproj": {}
+    "C:\\repos\\MAUI-Learning\\Phoneword\\Phoneword\\Phoneword.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian.Politis\\source\\repos\\Phoneword\\Phoneword\\Phoneword.csproj": {
+    "C:\\repos\\MAUI-Learning\\Phoneword\\Phoneword\\Phoneword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian.Politis\\source\\repos\\Phoneword\\Phoneword\\Phoneword.csproj",
+        "projectUniqueName": "C:\\repos\\MAUI-Learning\\Phoneword\\Phoneword\\Phoneword.csproj",
         "projectName": "Phoneword",
-        "projectPath": "C:\\Users\\Christian.Politis\\source\\repos\\Phoneword\\Phoneword\\Phoneword.csproj",
+        "projectPath": "C:\\repos\\MAUI-Learning\\Phoneword\\Phoneword\\Phoneword.csproj",
         "packagesPath": "C:\\Users\\Christian.Politis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian.Politis\\source\\repos\\Phoneword\\Phoneword\\obj\\",
+        "outputPath": "C:\\repos\\MAUI-Learning\\Phoneword\\Phoneword\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

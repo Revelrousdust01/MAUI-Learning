@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ycIqWhGJzOY47v08SFj424qRhu+lMAM0tB/RUehGWY/oqdctv48ICLGjw4/++ZNzFgm1D1qw8vNJq1VdCpOmEA==",
+  "dgSpecHash": "1c3eOT+DfnkUHZXnKLy8JtPWr9/AALdhLCgwruyPv0BUdC7yegHtmZPL07pMz88luqLECZcpkslXFOCMR3KR1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christian.Politis\\source\\repos\\Phoneword\\Phoneword\\Phoneword.csproj",
+  "projectFilePath": "C:\\repos\\MAUI-Learning\\Phoneword\\Phoneword\\Phoneword.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Christian.Politis\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Christian.Politis\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
