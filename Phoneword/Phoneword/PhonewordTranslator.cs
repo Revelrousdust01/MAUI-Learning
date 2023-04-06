@@ -33,6 +33,9 @@ namespace Phoneword
 
         }
 
+        static bool Contrains(this string keyString, char c)
+            => keyString.IndexOf(c) >= 0;
+
         static readonly string[] digits = {
             "ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXYZ"
         };
