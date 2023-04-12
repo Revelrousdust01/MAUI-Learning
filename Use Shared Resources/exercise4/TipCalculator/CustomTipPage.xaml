@@ -7,7 +7,7 @@
           ColumnDefinitions="*,2*"
           RowDefinitions="Auto, Auto, Auto, *">
 
-        <Label x:Name="billLabel"  Text="Bill"  FontSize="22" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" />
+        <Label x:Name="billLabel" Text="Bill" Style="{StaticResource infoLabelStyle}" Grid.Row="0" Grid.Column="0" />
         <Label x:Name="tipLabel"   Text="Tip"   FontSize="22" FontAttributes="Bold" Grid.Row="1" Grid.Column="0" />
         <Label x:Name="totalLabel" Text="Total" FontSize="22" FontAttributes="Bold" Grid.Row="2" Grid.Column="0" />
 
@@ -16,11 +16,11 @@
         <Label x:Name="totalOutput" Text="0.00" FontSize="22" Grid.Row="2" Grid.Column="1" />
 
         <Grid Grid.Row="3" Padding="10" ColumnSpacing="10" RowSpacing="10"
-              Grid.Column="0" 
+              Grid.Column="0"
               Grid.ColumnSpan="2" VerticalOptions="End"
               ColumnDefinitions="*,*"
               RowDefinitions="Auto,Auto,Auto,Auto">
-  
+
 
             <Label Text="Tip Percentage" FontSize="Medium" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" />
             <Label x:Name="tipPercent" Text="15%" HorizontalOptions="End" VerticalTextAlignment="End" FontSize="Medium" Grid.Row="0" Grid.Column="1" />

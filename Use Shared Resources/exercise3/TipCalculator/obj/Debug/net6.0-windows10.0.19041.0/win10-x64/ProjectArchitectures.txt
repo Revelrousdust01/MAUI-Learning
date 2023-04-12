@@ -1,0 +1,1 @@
+C:\repos\MAUI-Learning\Use Shared Resources\exercise3\TipCalculator\TipCalculator.csproj;x64
